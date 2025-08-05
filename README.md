@@ -1,2 +1,1 @@
-# CurrencyConverter-JAVA
-Currency converter with automatic exchange rate using ExchangeRate-API to get real-time values.
+Conversor de moeda com taxa de câmbio automática usando ExchangeRate-API para obter valores em tempo real.
